@@ -5,8 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%26+Data+Scientist;Computer+Science+Student;Python+%7C+SQL+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pula%20Gayasree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-pulagayasree29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulagayasree29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pula-gayasree-b0a629220/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulagayasree29)
+
 
 </div>
 
