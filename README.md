@@ -15,8 +15,7 @@
 
 ## About Me
 
-I'm a **Computer Science & Engineering student** who is currently learning **Artificial Intelligence (AI)** and **Machine Learning**.  
-I enjoy working with **data, problem-solving, and building simple ML projects**.
+I am a **Computer Science & Engineering student** with a strong interest in **Artificial Intelligence**, currently learning core AI concepts and developing my skills through data-driven problem-solving and basic AI/ML projects.
 
 - 🌱 Currently learning **Artificial Intelligence**
 - 📊 Interested in **Data Analysis & Machine Learning**
@@ -46,12 +45,14 @@ I enjoy working with **data, problem-solving, and building simple ML projects**.
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 </div>
 
 ---
 
-## What I'm Learning Now
+## What I've Learned So Far
 
 - Artificial Intelligence fundamentals  
 - Machine Learning algorithms  
