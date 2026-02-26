@@ -66,7 +66,7 @@ I am a **Computer Science & Engineering student** with a strong interest in **Ar
 
 I'm open to **learning together**, **student projects**, and **AI collaboration**.
 
-📧 Email: gayapula3@gmail.com  
+📧 Email: gayasreepula9@gmail.com  
 🔗 GitHub: https://github.com/pulagayasree29  
 
 </div>
